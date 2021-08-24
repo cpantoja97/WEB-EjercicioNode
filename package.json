@@ -1,0 +1,24 @@
+{
+  "name": "ejercicionode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpantoja97/WEB-EjercicioNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpantoja97/WEB-EjercicioNode/issues"
+  },
+  "homepage": "https://github.com/cpantoja97/WEB-EjercicioNode#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
